@@ -12,7 +12,28 @@
                     <div class="details">
                     <ul>
                     <li>
-                        Multiclass classification (scikit-learn) enhanced by word embeddings (word2vec)
+		        CS 534: Machine Learning
+                    </li>
+		    <li>
+                        CS 519: Deep Learning
+                    </li>
+		    <li>
+                        CS 540: Database Management Systems
+                    </li>
+		    <li>
+                        CS 533: Intelligent Agents and Decision Making (Reinforcement Learning)
+                    </li>
+		    <li>
+                        CS 515: Algorithms and Data Structures
+                    </li>
+		    <li>
+                        CS 550: Introduction to Computer Graphics
+                    </li>
+                    <li>
+                        CS 572: Computer Architecture
+                    </li>
+		    <li>
+                        CS 516: Theory of Computation
                     </li>
                     </div><!--//details-->
                 </div><!--//item-->
