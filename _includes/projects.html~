@@ -8,8 +8,11 @@
                     <span class="project-title">
 		    <a href="https://github.com/dapengliamy/Kaggle_Competition_Whats-cooking">
 		      Kaggle Competition What's cooking
-		    </a></span> - <span class="project-tagline">79.03% Accuracy(on top 15% in the Kaggle competition, best result so far was 82.03%)
+		    </a></span> - <span class="project-tagline">
 		    <ul>
+		    <li>
+		      79.03% Accuracy(on top 15% in the Kaggle competition, best result so far was 82.03%)
+		    </li>
                     <li>
                         Multiclass classification (scikit-learn) enhanced by word embeddings (word2vec)     
                     </li>
@@ -28,8 +31,11 @@
 		    <a href="https://github.com/dapengliamy/DATABASE-MANAGEMENT-SYSTEM">
 		      Predict Apartment Rental Price in Corvallis
 		    </a>
-		    </span> - <span class="project-tagline">Score for Neural Network Regression Model is 73.3%. 
+		    </span> - <span class="project-tagline"> 
 		      <ul>
+		    <li>
+		      Score for Neural Network Regression Model is 73.3%.
+		    </li>
                     <li>
                         Collected data by crawling the Web using Scrapy
                     </li>
