@@ -4,7 +4,7 @@
                 <div class="item">
                     <span class="project-title">
 		    <a href="https://github.com/dapengliamy/Kaggle_Competition_Whats-cooking">
-		      Kaggle Competition What's cooking
+		      Machine Learning: Kaggle Competition What's cooking
 		    </a></span>
 		    <ul>
 		    <li>
@@ -38,7 +38,7 @@
                 <div class="item">
                     <span class="project-title">
 		    <a href="https://github.com/dapengliamy/DATABASE-MANAGEMENT-SYSTEM">
-		      Rental Price Prediction using MySQL and Regression
+		      Database Management Systems: Rental Price Prediction using MySQL and Regression
 		    </a>
 		    </span>
 		      <ul>
@@ -65,6 +65,11 @@
 		      Computer Graphics Project: Animated Solar System using OpenGL.
 		    </a>
 		    </span>
+		    <ul>
+		      <li>
+			used geometric modeling, texture mapping, animation, lighting, transparency, B ́ezier curves
+
+			</li>
                 </div><!--//item-->
 		
             </section><!--//section-->
